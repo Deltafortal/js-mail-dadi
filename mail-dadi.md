@@ -13,5 +13,15 @@
     - (BONUS) Stampa nel DOM il risultato
 
 
+# Email
+
+- (BONUS) Prendi nel DOM gli elementi necessari
+- Creiamo una lista di email
+- Chiedi all'utente la sua email
+- Salviamo l'email in una variabile
+    - **SE** l'email inserita è presente nella lista
+        - Benvenuto
+    - **Altrimenti** 
+        - Non puoi entrare
 
 
